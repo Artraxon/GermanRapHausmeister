@@ -1,4 +1,4 @@
-package de.rtrx.a.tihi.database
+package de.rtrx.a.derap.database
 
 import de.rtrx.a.toSupplier
 import org.intellij.lang.annotations.Language

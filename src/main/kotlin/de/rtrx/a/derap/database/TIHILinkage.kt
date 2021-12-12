@@ -1,4 +1,4 @@
-package de.rtrx.a.tihi.database
+package de.rtrx.a.derap.database
 
 import com.google.gson.JsonObject
 import de.rtrx.a.database.*
